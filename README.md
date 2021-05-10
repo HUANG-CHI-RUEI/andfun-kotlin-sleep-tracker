@@ -1,6 +1,6 @@
 # Room - SleepQualityTracker app
 
-自我戀鞋 Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
+自我練習 Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
 ## SleepQualityTracker
 
